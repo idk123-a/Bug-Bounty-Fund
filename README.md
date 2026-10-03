@@ -98,7 +98,7 @@ This would allow the fund to support important existing infrastructure as well a
 
 Security vulnerabilities do not necessarily remain isolated to one project.
 
-A vulnerability in infrastructure such as an exchange, bridge, vault or other high-value Smart Contract could have consequences for users and confidence across the wider ecosystem.
+A vulnerability in infrastructure such as an QX SC , QSWAP SC , future bridge, MSVAULT, QEARN, or other high-value Smart Contract could have consequences for users and confidence across the wider ecosystem.
 
 A shared security fund therefore allows the ecosystem to contribute collectively to protecting infrastructure that can ultimately benefit the entire Qubic ecosystem.
 

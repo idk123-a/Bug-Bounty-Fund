@@ -30,6 +30,7 @@ Individual Smart Contracts may not yet generate enough revenue to continuously f
 
 The goal is therefore to move towards a **proactive and sustainable security funding mechanism**, rather than repeatedly raising donations when a vulnerability is discovered or when an audit becomes necessary.
 
+
 ---
 
 ## Initial Concept
@@ -101,6 +102,8 @@ Security vulnerabilities do not necessarily remain isolated to one project.
 A vulnerability in infrastructure such as an QX SC , QSWAP SC , future bridge, MSVAULT, QEARN, or other high-value Smart Contract could have consequences for users and confidence across the wider ecosystem.
 
 A shared security fund therefore allows the ecosystem to contribute collectively to protecting infrastructure that can ultimately benefit the entire Qubic ecosystem.
+
+A vulnerability on QX, QEARN and QSWAP with an incoming BRIDGE bringing new assets could be devasting to the ecosystem as a whole.
 
 It also reduces the need for individual projects to repeatedly ask shareholders and community members for additional donations when security work is required.
 

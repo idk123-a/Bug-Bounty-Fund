@@ -121,8 +121,7 @@ A subsequent proposal would then address and put to a separate vote:
    * Eligibility requirements
    * Bounty criteria and payout limits
    * Administration of the fund
-   * Treatment of existing Smart Contracts
-   * Sunset/review conditions
+   * Treatment of existing Smart Contract      * Review period and conditions
    * Technical implementation
 
 * * *

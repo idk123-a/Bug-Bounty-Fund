@@ -1,4 +1,4 @@
-# Proposal: Smart Contract Security & Bug Bounty Fund (SCSF)
+# Proposal: Smart Contract Security Fund (SCSF)
 
 ## Proposal
 

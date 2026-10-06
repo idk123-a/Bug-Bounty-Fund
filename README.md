@@ -1,4 +1,4 @@
-# Proposal: Universal Smart Contract Security & Bug Bounty Fund
+# Proposal: Smart Contract Security & Bug Bounty Fund
 
 ## Proposal
 

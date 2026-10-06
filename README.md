@@ -1,4 +1,4 @@
-# Proposal: Smart Contract Security & Bug Bounty Fund
+# Proposal: Smart Contract Security & Bug Bounty Fund (SCSF)
 
 ## Proposal
 
@@ -36,11 +36,11 @@ The goal is therefore to move towards a proactive and sustainable security fundi
 
 ## Initial Concept
 
-The initial idea is that a fixed percentage of all future Smart Contract IPO proceeds (e.g. 5%) could be redirected to the Universal Smart Contract Bug Bounty Fund instead of being burned.
+The initial idea is that a fixed percentage of all future Smart Contract IPO proceeds (e.g. 5%) could be redirected to the SCSF instead of being burned.
 
-Once the fund reaches an initial threshold (e.g. 100 billion QUBIC), further allocations that would otherwise go to the Bug Bounty Fund could instead be redirected to the CCF.
+Once the fund reaches an initial threshold (e.g. 100 billion QUBIC), further allocations that would otherwise go to the SCSF could instead be redirected to the CCF.
 
-The Bug Bounty Fund would be a shared ecosystem fund that could finance:
+The SCSF would be a shared ecosystem fund that could finance:
 
    * Bug bounties
    * Security audits and reviews
@@ -58,7 +58,7 @@ The 5% allocation and 100 billion QUBIC threshold are examples intended to illus
 
 To prevent the fund from accumulating an unnecessarily large balance, an initial threshold of 100 billion QUBIC could be established.
 
-Once the fund reaches this threshold, further IPO allocations intended for the Bug Bounty Fund could instead be redirected to the CCF until the fund falls below the threshold.
+Once the fund reaches this threshold, further IPO allocations intended for the SCSF could instead be redirected to the CCF until the fund falls below the threshold.
 
 The exact mechanism would be defined in the follow-up proposal.
 
@@ -84,9 +84,9 @@ The detailed eligibility criteria and bounty rules would also be defined in the 
 
 The initial mechanism would naturally apply to future Smart Contract IPOs.
 
-Existing Smart Contracts could also be included in the Universal Bug Bounty Program, subject to the eligibility requirements and a suitable onboarding mechanism.
+Existing Smart Contracts could also be included in the SCSF, subject to the eligibility requirements and a suitable onboarding mechanism.
 
-For example, existing projects could initially join by making a one-time membership contribution to the Universal Bug Bounty Fund. The amount and exact conditions would be determined in the subsequent proposal.
+For example, existing projects could initially join by making a one-time membership contribution to the SCSF. The amount and exact conditions would be determined in the subsequent proposal.
 
 This would allow the fund to support important existing infrastructure as well as new projects, while giving existing Smart Contracts a way to participate before the new IPO mechanism is in place.
 
@@ -135,4 +135,4 @@ The 5% allocation and 100 billion QUBIC threshold are examples intended to illus
 
 The purpose of this vote is simply to determine:
 
-> Is there sufficient support from CFB and the Computors to develop this concept into a detailed proposal for a Universal Smart Contract Security & Bug Bounty Fund?
+> Is there sufficient support from CFB and the Computors to develop this concept into a detailed proposal for a Smart Contract Security & Bug Bounty Fund (SCSF)?
